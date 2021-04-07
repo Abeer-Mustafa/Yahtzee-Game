@@ -1,6 +1,7 @@
 """
 Planner for Yahtzee
-Simplifications:  only allow discard and roll, only score against upper level
+author:  Abeer Mustafa
+created: 07.04.2021 18:28:35 
 """
 
 # Used to increase the timeout, if necessary
