@@ -10,7 +10,7 @@ Now, Impress your friends by consistently beating them at Yahtzee!
 
 Python, CodeSkulptor
 
-You can run the code on [this link](http://www.codeskulptor.org/#user48_aEOnsRQ2oi_35.py)
+You can run the code on [this link](http://www.codeskulptor.org/#user48_aEOnsRQ2oi_36.py)
 
 
 ## By Abeer Mustafa
